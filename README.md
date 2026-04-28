@@ -21,6 +21,7 @@ Based in Moscow, Russia.
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="32" alt="FastAPI" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="32" alt="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" width="32" alt="Flask" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="32" alt="PostgreSQL" />
@@ -41,12 +42,16 @@ Based in Moscow, Russia.
 
 ### 📂 Featured Projects
 
-- **[YaCut](https://github.com/Androoj/async-yacut)** – URL shortener with file upload to Yandex Disk  
+- **[QRKot](https://github.com/Androoj/QRkot)** – Charity fund API with automated investment logic  
+  _FastAPI • SQLAlchemy • Alembic • JWT • Async • Google Sheets API_
+- **[PEP Parser](https://github.com/Androoj/scrapy_pep)** – Charity fund API with automated investment logic  
+  _FastAPI • SQLAlchemy • Alembic • JWT • Async • Google Sheets API_
+- **[YaCut](https://github.com/Androoj/yacut)** – URL shortener with file upload to Yandex Disk  
   _Flask • SQLAlchemy • SQLite • aiohttp • REST API • OpenAPI_
 - **[Foodgram](https://github.com/Androoj/foodgram)** – Diploma project (Yandex Practicum)  
   _Django + DRF + Docker + CI/CD + PostgreSQL + Nginx + React frontend (integrated)_  
-- **[YaMDb](https://github.com/Androoj/api_yamdb)** – Full-featured REST API with permissions, throttling, and documentation  
-- **[Kittygram](https://github.com/Androoj/kittygram_final)** – Containerized Django app with automated deployment via GitHub Actions  
+- **[YaMDb](https://github.com/Androoj/yamdb)** – Full-featured REST API with permissions, throttling, and documentation  
+- **[Kittygram](https://github.com/Androoj/kittygram)** – Containerized Django app with automated deployment via GitHub Actions  
 - **[ML Salary Predictor](https://github.com/Androoj/ml_project_netology)** – Final Netology project: ML model to estimate salaries from job descriptions
 
 ---
@@ -54,7 +59,7 @@ Based in Moscow, Russia.
 ### 🎓 Education
 
 - **Python Developer** — Yandex Practicum (2025)  
-  _13 projects • Django • DRF • Docker • CI/CD • Async • Flask_
+  _13 projects • Django • DRF • Docker • CI/CD • Async • Flask • FastAPI_
 - **Data Science** — Netology (2024)  
   _SQL • Pandas • Statistics • ML • Data visualization_
 
@@ -66,6 +71,6 @@ Based in Moscow, Russia.
 
 📧 Email: [yurkov.an@mail.ru]  
 💬 Telegram: [@androoj]  
-🚀 Open to: **Internships, Junior Python Developer, MLOps Trainee**
+🚀 Open to: **Internships, Python Developer, MLOps Trainee**
 
 ---
