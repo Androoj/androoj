@@ -49,6 +49,17 @@ Focused on building APIs, backend services, data-driven applications, and ML inf
 
 ## 🔹 Backend & API Development
 
+### [Minesweeper](https://github.com/Androoj/minesweeper)
+Classic Minesweeper implementation with layered architecture and FastAPI backend.
+
+**Stack:** Python • FastAPI • Pytest • HTML/CSS/JS • Ruff
+
+- Separated game logic, API, console UI, and web interface
+- REST API for game management
+- Recursive empty-area раскрытие через queue traversal
+- Safe first move algorithm
+- Automated tests and typed Python code
+
 ### [QRKot](https://github.com/Androoj/QRkot)
 Charity fund API with automated investment allocation system.
 
